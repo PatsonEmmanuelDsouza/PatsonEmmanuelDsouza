@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year university student in Computer Science, and I am passionate about coding. <br>I constantly strive to improve my skills. I am a quick learner who enjoys tackling new challenges<br> and finding innovative solutions to complex problems<br>In my free time, I enjoy playing chess, hitting the gym and playing badminton. <br><br>
+I am a second-year university student in Computer Science, and I am passionate about coding. <br>I constantly strive to improve my skills. I am a quick learner who enjoys tackling new challenges<br> and finding innovative solutions to complex problems<br>In my free time, I enjoy solving LeetCode problems, playing chess, hitting the gym and playing badminton. <br><br>
 
 
 # 💻 Worked With:
