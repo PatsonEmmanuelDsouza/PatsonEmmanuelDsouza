@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a second-year university student in Computer Science, and I am passionate about coding. <br>I constantly strive to improve my skills. I am a quick learner who enjoys tackling new challenges<br> and finding innovative solutions to complex problems<br>In my free time, I enjoy solving LeetCode problems, playing chess and staying active. <br><br>
-
+I am a third-year student in Computer Science.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PatsonEmmanuelDsouza)
 
